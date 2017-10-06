@@ -14,7 +14,7 @@ int main(void)
     int i;
     int j;
     int f;
-
+    printf("Hello\n");
 
     printf("Please enter a number between 1-100\n");
     scanf("%d", &number);
